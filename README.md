@@ -47,7 +47,7 @@ This repository is designed to help you master Object-Oriented Programming (OOP)
 1. Clone the repo  
    ```bash
    git clone https://github.com/saikumar-pujari/OOP-in-python.git
-   cd OOP-Python
+   cd OOP-in-python
    
 🤝 Contributing
 Pull requests are welcome! Got a better example or project idea? Let’s make this the best OOP-in-Python repo out there.
